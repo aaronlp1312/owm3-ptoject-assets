@@ -1,4 +1,4 @@
-// 🌤️ UNIFIED WEATHER APPLICATION
+//  UNIFIED WEATHER APPLICATION
 // Combines animation controller and weather data management
 // =============================================================================
 
